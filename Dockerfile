@@ -1,4 +1,4 @@
-FROM tomcat:9.0-jdk17
+FROM tomcat:9.0
 
 # Railway PORT
 ENV PORT=8080
